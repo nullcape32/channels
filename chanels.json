@@ -232,13 +232,13 @@
   },
   {
     "id": 22,
-    "title": "BBC-FIRST-LIVE",
+    "title": "BBC AMERICA",
     "description": "BBC-FIRST-LIVE Live Stream",
-    "videoUrl": "https://onyx1.mofta.cfd/bibi1/usergendxn09l2s6cek.m3u8",
+    "videoUrl": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://tv.legal/watch/bbc-america-us\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
   },
   {
     "id": 23,
