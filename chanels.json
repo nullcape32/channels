@@ -552,13 +552,13 @@
   },
   {
     "id": 55,
-    "title": "RomaniaTV",
-    "description": "Google DASH Test Stream",
-    "videoUrl": "https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8",
+    "title": "CBS News",
+    "description": gle DASH Test Stream",
+    "videoUrl": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
-    "headers": "Referer: https://www.romaniatv.net/live\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.romaniatv.net"
+    "headers": "Referer: http://www.freeintertv.com/view/id-2984\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: http://www.freeintertv.com"
   },
   {
     "id": 56,
