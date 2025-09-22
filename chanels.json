@@ -553,7 +553,7 @@
   {
     "id": 55,
     "title": "CBS News",
-    "description": gle DASH Test Stream",
+    "description": Google DASH Test Stream",
     "videoUrl": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
