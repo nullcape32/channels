@@ -632,13 +632,13 @@
 },
 {
    "id": 72,
-    "title": "MTV",
+    "title": "MTV '90 Hits",
     "description": "Google DASH Test Stream",
-    "videoUrl": "https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8",
+    "videoUrl": "https://s.xittv.net/MQz0vaVv2EFJQru0OagWOg/204/1758720052/index.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": ""
+    "headers": "Referer: https://xittv.net/mtv-hits.html\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://xittv.net"
 },
 {
    "id": 73,
