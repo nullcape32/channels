@@ -588,7 +588,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Kids",
     "duration": 0,
-    "headers": "Referer: https://www.cool-etv.net/ch/jim-jam.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+    "headers": "Referer: https://cool-tv.net/ch/jimjam-live.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
 },
 {
    "id": 64,
@@ -692,6 +692,7 @@
 }
 
 ]
+
 
 
 
