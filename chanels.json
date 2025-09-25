@@ -204,21 +204,21 @@
     "id": 20,
     "title": "HBO ",
     "description": "HRO1  Live Stream",
-    "videoUrl": "https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8",
+    "videoUrl": "https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/hro1-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 21,
     "title": "HBO2 ",
     "description": "HRO2  Live Stream",
-    "videoUrl": "https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8",
+    "videoUrl": "https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/hro2-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 65,
@@ -294,11 +294,11 @@
     "id": 28,
     "title": "MUSIC-CHANNEL",
     "description": "MUSIC-CHANNEL Live Stream",
-    "videoUrl": "https://arwen1.panaka.cfd/mch/usergenz7h0qdt.m3u8",
+    "videoUrl": "https://arwen1.panaka1.cfd/mch/usergenz7h0qdt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/mch.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 29,
@@ -344,11 +344,11 @@
     "id": 33,
     "title": "EURO-NEWS ",
     "description": "EURO-NEWS  Live Stream",
-    "videoUrl": "https://thor1.syndula.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
+    "videoUrl": "https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/euro-news-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 34,
@@ -414,21 +414,21 @@
     "id": 40,
     "title": "ER1 ",
     "description": "ER1  Live Stream",
-    "videoUrl": "https://jardo111.jardomany.cfd/er01/usergendx0slkgx7dqrnd.m3u8",
+    "videoUrl": "https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/er1-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 41,
     "title": "ER2 ",
     "description": "ER2  Live Stream",
-    "videoUrl": "https://jardo111.jardomany.cfd/er02/usergenje3x9dqrnd.m3u8",
+    "videoUrl": "https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/er2-s2.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 42,
@@ -464,21 +464,21 @@
     "id": 44,
     "title": "VIA-HIS",
     "description": "VIA-HIS Live Stream",
-    "videoUrl": "https://arwen1.panaka.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
+    "videoUrl": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/via-his.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 46,
     "title": "VIA-EXPLORER",
     "description": "VIA-EXPLORER Live Stream",
-    "videoUrl": "https://arwen1.panaka.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
+    "videoUrl": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/via-explorer.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 47,
