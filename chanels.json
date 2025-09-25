@@ -334,11 +334,11 @@
     "id": 32,
     "title": "PRIMA-NEWS",
     "description": "PRIMA-NEWS Live Stream",
-    "videoUrl": "https://thor1.syndula.cfd/prnews/usergenx2klq7rnd.m3u8",
+    "videoUrl": "https://thor1.syndula1.cfd/prnews/usergenx2klq7rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://cool-tv.net/ch/prima-news-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
     "id": 33,
