@@ -652,9 +652,9 @@
 },
 {
    "id": 75,
-    "title": "SkyShowTime",
+    "title": "SkyShowTime 1",
     "description": "Google DASH Test Stream",
-    "videoUrl": "https://thor1.syndula.cfd/schi1/usergendxn430rnd.m3u8",
+    "videoUrl": "https://thor1.syndula1.cfd/schi1/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
