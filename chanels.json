@@ -653,7 +653,7 @@
     "headers": "Referer: https://tv.legal/watch/impact-tv-dance-ro\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
 },
 {
-   "id": 79,
+   "id": 77,
     "title": "SkyShowTime 1",
     "description": "Google DASH Test Stream",
     "videoUrl": "https://thor1.syndula1.cfd/schi1/usergendxn430rnd.m3u8",
@@ -681,17 +681,8 @@
     "category": "Sport",
     "duration": 0,
     "headers": "Referer: https://www.tvrplus.ro/live/tvr-sport\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.tvrplus.ro"
-},
-{
-   "id": 78,
-    "title":"Mtv",
-    "description": "Google DASH Test Stream",
-    "videoUrl": "https://da-88fffe67.id.vtv-prod.vodafone.ro/wp/live.vtv-prod.vodafone.ro/5816/vxfmt=dp/manifest.mpd?device_profile=DASH_AVC_F",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Music",
-    "duration": 0,
-    "headers": "Referer: https://www.tvonline123.com/tvlive/?url=mtv\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.tvonline123.com"
 }
+
 
   
 ]
