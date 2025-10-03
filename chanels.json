@@ -328,7 +328,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": ""
+    "headers": "Referer: https://cool-tv.net/ch/etnotv.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
     "id": 31,
