@@ -67,7 +67,8 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://cool-tv.net/ch/protv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
+    "headers": "Referer: https://cool-tv.net/ch/protv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin:https://cool-tv.net"
+
   },
   {
     "id": 8,
@@ -80,9 +81,9 @@
     "headers": "Referer: https://cool-tv.net/ch/an1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
-    "id": 9,
+    "id": 59,
     "title": "TVR1HD",
-    "description": "TVR1 HD Live Stream",
+    "description": "AN1 Live Stream",
     "videoUrl": "https://tvr-tvr1.cdn.zitec.com/live/tvr1/main.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -90,7 +91,7 @@
     "headers": ""
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "Kanal D",
     "description": "CD Live Stream",
     "videoUrl": "https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8",
@@ -100,7 +101,7 @@
     "headers": "Referer: https://cool-tv.net/ch/cd-s1.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
-    "id": 11,
+    "id": 10,
     "title": "Prima TV",
     "description": "Prima Live Stream",
     "videoUrl": "https://rohan116.ultronx1.cfd/prima/usergenrnd8qxl92r.m3u8",
@@ -110,7 +111,7 @@
     "headers": "Referer: https://cool-tv.net/ch/primatv.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "TVR3",
     "description": "TVR3 Live Stream",
     "videoUrl": "https://thor1.syndula1.cfd/tevere3/usergenx4klq9qrnd.m3u8",
@@ -120,7 +121,7 @@
     "headers": "Referer: https://cool-tv.net/ch/tvr3-s1.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "TVR International",
     "description": "TVR-INTER Live Stream",
     "videoUrl": "https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8",
@@ -130,7 +131,7 @@
     "headers": "Referer: https://www.tvrplus.ro/live/tvr-international\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://www.tvrplus.ro"
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "Digi 24",
     "description": "NEWS-24 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8",
@@ -140,7 +141,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "PROCINEMA",
     "description": "PROCINEMA Live Stream",
     "videoUrl": "https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8",
@@ -150,9 +151,9 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 16,
-    "title": "ANTENA STARS",
-    "description": "AN2 Live Stream",
+    "id": 15,
+    "title": "ANTENA STARS ",
+    "description": "AN2  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/antstar/usergenrxl7m94sq.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -160,9 +161,9 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "National Geographic",
-    "description": "National Geographic Live Stream",
+    "description": "EUFORIA Live Stream",
     "videoUrl": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -170,9 +171,9 @@
     "headers": "Referer: https://cool-tv.net/ch/natgeo.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "TVR Cultural",
-    "description": "TVR Cultural Live Stream",
+    "description": "UNKNOWN Live Stream",
     "videoUrl": "https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -180,29 +181,29 @@
     "headers": "Referer: https://www.tvrplus.ro/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.tvrplus.ro"
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "Moldova 1",
-    "description": "Moldova 1 Live Stream",
+    "description": "UNKNOWN Live Stream",
     "videoUrl": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://v0.trm.md/videos/embed/kcvQjHoCxCn5ZAkaPGgpNJ?warningTitle=0&peertubeLink=0\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://v0.trm.md"
+    "headers": "Referer: https://v0.trm.md/videos/embed/kcvQjHoCxCn5ZAkaPGgpNJ?warningTitle=0&peertubeLink=0\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 20,
+    "id": 19,
     "title": "Moldova 2",
-    "description": "Moldova 2 Live Stream",
+    "description": "UNKNOWN Live Stream",
     "videoUrl": "https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://v.trm.md/videos/embed/937e4e0e-7174-4fb2-a299-480e68b49ecb?warningTitle=0&peertubeLink=0\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://v.trm.md"
+    "headers": "Referer: https://v.trm.md/videos/embed/937e4e0e-7174-4fb2-a299-480e68b49ecb?warningTitle=0&peertubeLink=0\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 21,
-    "title": "HBO",
-    "description": "HBO Live Stream",
+    "id": 20,
+    "title": "HBO ",
+    "description": "HRO1  Live Stream",
     "videoUrl": "https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
@@ -210,9 +211,9 @@
     "headers": "Referer: https://www.cool-etv.net/ch/hro1-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
-    "id": 22,
-    "title": "HBO2",
-    "description": "HBO2 Live Stream",
+    "id": 21,
+    "title": "HBO2 ",
+    "description": "HRO2  Live Stream",
     "videoUrl": "https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
@@ -220,14 +221,34 @@
     "headers": "Referer: https://www.cool-etv.net/ch/hro2-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
+    "id": 65,
+    "title": "ComedyPlay",
+    "description": "HRO2 Live Stream",
+    "videoUrl": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Movies",
+    "duration": 0,
+    "headers": "Referer: https://tv.legal/watch/comedy-play-ro\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
+  },
+  {
+    "id": 22,
+    "title": "BBC AMERICA",
+    "description": "BBC-FIRST-LIVE Live Stream",
+    "videoUrl": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Movies",
+    "duration": 0,
+    "headers": "Referer: https://tv.legal/watch/bbc-america-us\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
+  },
+  {
     "id": 23,
-    "title": "AMC",
-    "description": "AMC Live Stream",
+    "title": "AMC ",
+    "description": "AMC  Live Stream",
     "videoUrl": "https://iron1.jarvisx.cfd/amece/usergenrx3oq1kr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: https://iron1.jarvisx.cfd/000/amece.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://iron1.jarvisx.cfd"
+    "headers": "Referer: https://iron1.jarvisx.cfd/000/amece.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 24,
@@ -237,22 +258,22 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: https://flash1.bogulus.cfd/000/1tivi10.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://flash1.bogulus.cfd"
+    "headers": "Referer: https://flash1.bogulus.cfd/000/1tivi10.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 25,
-    "title": "MOVIE",
-    "description": "MOVIE Live Stream",
+    "title": "MOVIE ",
+    "description": "MOVIE  Live Stream",
     "videoUrl": "https://ultra2.falconx.cfd/muk/usergendx0nht6241s0krdnyd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: https://ultra2.falconx.cfd/000/mok.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://ultra2.falconx.cfd"
+    "headers": "Referer: https://ultra2.falconx.cfd/000/mok.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 26,
     "title": "Atomic-TV",
-    "description": "Atomic TV Live Stream",
+    "description": "UNKNOWN Live Stream",
     "videoUrl": "https://atomic.streamnet.ro/atomictv.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
@@ -292,7 +313,7 @@
   {
     "id": 30,
     "title": "TVR Folclor",
-    "description": "TVR Folclor Live Stream",
+    "description": "UNKNOWN Live Stream",
     "videoUrl": "https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
@@ -321,8 +342,8 @@
   },
   {
     "id": 33,
-    "title": "EURO-NEWS",
-    "description": "EURO-NEWS Live Stream",
+    "title": "EURO-NEWS ",
+    "description": "EURO-NEWS  Live Stream",
     "videoUrl": "https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
@@ -391,8 +412,8 @@
   },
   {
     "id": 40,
-    "title": "ER1",
-    "description": "ER1 Live Stream",
+    "title": "ER1 ",
+    "description": "ER1  Live Stream",
     "videoUrl": "https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
@@ -401,8 +422,8 @@
   },
   {
     "id": 41,
-    "title": "ER2",
-    "description": "ER2 Live Stream",
+    "title": "ER2 ",
+    "description": "ER2  Live Stream",
     "videoUrl": "https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
@@ -440,7 +461,7 @@
     "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
   },
   {
-    "id": 45,
+    "id": 44,
     "title": "VIA-HIS",
     "description": "VIA-HIS Live Stream",
     "videoUrl": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
@@ -472,27 +493,27 @@
   {
     "id": 48,
     "title": "TF1",
-    "description": "TF1 Live Stream",
+    "description": "BBC-EARTH Live Stream",
     "videoUrl": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
-    "headers": "Referer: http://www.freeintertv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
+    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
   },
   {
     "id": 49,
     "title": "RTL FRANCE",
-    "description": "RTL FRANCE Live Stream",
+    "description": "BBC-EARTH Live Stream",
     "videoUrl": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
-    "headers": "Referer: http://www.freeintertv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
+    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: http://www.freeintertv.com"
   },
   {
     "id": 50,
     "title": "Rock TV",
-    "description": "Rock TV Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
@@ -502,7 +523,7 @@
   {
     "id": 51,
     "title": "Canal32",
-    "description": "Canal32 Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://edge21.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
@@ -512,7 +533,7 @@
   {
     "id": 52,
     "title": "Magic TV",
-    "description": "Magic TV Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
@@ -522,7 +543,7 @@
   {
     "id": 53,
     "title": "TravelXP",
-    "description": "TravelXP Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
@@ -530,9 +551,9 @@
     "headers": ""
   },
   {
-    "id": 54,
+    "id": 55,
     "title": "CBS News",
-    "description": "CBS News Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
@@ -540,143 +561,162 @@
     "headers": "Referer: http://www.freeintertv.com/view/id-2984\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: http://www.freeintertv.com"
   },
   {
-    "id": 55,
+    "id": 56,
     "title": "DigiSport 1",
-    "description": "DigiSport 1 Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://kuk1.modprimus.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
     "duration": 0,
-    "headers": "Referer: https://www.cool-etv.net/ch/sport1-s1.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
-  },
-  {
-    "id": 56,
-    "title": "ComedyPlay",
-    "description": "ComedyPlay Live Stream",
-    "videoUrl": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Movies",
-    "duration": 0,
-    "headers": "Referer: https://tv.legal/watch/comedy-play-ro\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
-  },
-  {
-    "id": 57,
-    "title": "BBC AMERICA",
-    "description": "BBC AMERICA Live Stream",
-    "videoUrl": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Movies",
-    "duration": 0,
-    "headers": "Referer: https://tv.legal/watch/bbc-america-us\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
-  },
-  {
-    "id": 58,
+    "headers": "Referer: https://www.cool-etv.net/ch/sport1-s1.htm#\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+},
+
+{
+   "id": 63,
     "title": "JimJam",
-    "description": "JimJam Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://saruman1.tharen1.cfd/jimy/usergenq3n0lz7kr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Kids",
     "duration": 0,
     "headers": "Referer: https://cool-tv.net/ch/jimjam-live.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
-  },
-  {
-    "id": 59,
+},
+{
+   "id": 64,
     "title": "BabyFirst",
-    "description": "BabyFirst Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Kids",
     "duration": 0,
     "headers": ""
-  },
-  {
-    "id": 60,
+},
+{
+   "id": 65,
     "title": "Nickelodeon",
-    "description": "Nickelodeon Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Kids",
     "duration": 0,
-    "headers": "Referer: https://www.cool-etv.net/ch/nickelodeon.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
-  },
-  {
-    "id": 61,
+    "headers": "https://www.cool-etv.net/ch/nickelodeon.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+},
+{
+   "id": 70,
     "title": "GustoTV",
-    "description": "GustoTV Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
     "duration": 0,
     "headers": ""
-  },
-  {
-    "id": 62,
+},
+{
+   "id": 71,
     "title": "HelloTaste",
-    "description": "HelloTaste Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Life/Earth",
     "duration": 0,
     "headers": ""
-  },
-  {
-    "id": 63,
+},
+
+{
+   "id": 73,
     "title": "JazzTV",
-    "description": "JazzTV Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
     "headers": ""
-  },
-  {
-    "id": 64,
+},
+{
+   "id": 74,
     "title": "France24",
-    "description": "France24 Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "News",
     "duration": 0,
     "headers": "Referer: https://tv.legal/watch/france-24-french-fr\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
-  },
-  {
-    "id": 65,
+},
+{
+   "id": 75,
     "title": "Impact TV Dance",
-    "description": "Impact TV Dance Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://online.tvimpact.live/hls/dancetv.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
     "headers": "Referer: https://tv.legal/watch/impact-tv-dance-ro\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://tv.legal"
-  },
-  {
-    "id": 66,
+},
+{
+   "id": 77,
     "title": "SkyShowTime 1",
-    "description": "SkyShowTime 1 Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://thor1.syndula1.cfd/schi1/usergendxn430rnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
     "headers": "Referer: https://www.cool-etv.net/ch/shut1-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
-  },
-  {
-    "id": 67,
+},
+{
+   "id": 76,
     "title": "Caillou",
-    "description": "Caillou Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Kids",
     "duration": 0,
-    "headers": "Referer: https://www.cool-etv.net/\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
-  },
-  {
-    "id": 68,
+    "headers": "Referer: https://www.cool-etv.net/ch/shut1-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
+},
+{
+   "id": 77,
     "title": "TVR Sport",
-    "description": "TVR Sport Live Stream",
+    "description": "Google DASH Test Stream",
     "videoUrl": "https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Sport",
     "duration": 0,
     "headers": "Referer: https://www.tvrplus.ro/live/tvr-sport\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.tvrplus.ro"
-  }
+},
+{
+   "id": 78,
+    "title": "Romania TV",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://vs2133.vcdn.biz/d955576a43f6ed06a913697e4dbe1618_megogo/live/hls/b/700_2490/u_sid/0/o/183396781/rsid/2930bbeb-5b16-463a-a8c1-2f6bd84d761a/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.118.147.14*asn/u_srvc/109126/u_did/web_WK1eydcMlEUw69RRnwjOGI1oJwFlc5bq/type.live/chunklist-sid1414520553411439744-b2490000.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "news",
+    "duration": 0,
+    "headers": "Referer: https://www.tvrplus.ro/live/tvr-sport\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.tvrplus.ro"
+}
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
