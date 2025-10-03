@@ -688,11 +688,12 @@
     "description": "Google DASH Test Stream",
     "videoUrl": "https://vs2133.vcdn.biz/d955576a43f6ed06a913697e4dbe1618_megogo/live/hls/b/700_2490/u_sid/0/o/183396781/rsid/2930bbeb-5b16-463a-a8c1-2f6bd84d761a/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.118.147.14*asn/u_srvc/109126/u_did/web_WK1eydcMlEUw69RRnwjOGI1oJwFlc5bq/type.live/chunklist-sid1414520553411439744-b2490000.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "news",
+    "category": "News",
     "duration": 0,
     "headers": "Referer: https://www.tvrplus.ro/live/tvr-sport\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.tvrplus.ro"
 }
 ]
+
 
 
 
