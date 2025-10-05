@@ -174,11 +174,11 @@
     "id": 17,
     "title": "TVR Cultural",
     "description": "UNKNOWN Live Stream",
-    "videoUrl": "https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8",
+    "videoUrl": "https://hls6eu.sweet.tv/stream/d43ih39zxve4gnu3k9u5rt5euyb35g9fc5y5m7yhu3rs664bdinvadehj9hh64y2vc7z7v5zmn5mvidw43xsb8fut6wa9pyum43k2wtt6vfdfq6kfvxifhqi58mmsvhxpbty3vutmjkb62ahrd8wg36cbctg6jp9xeqfqpw6ydpp6farcr4e7t3s8gz3j5zb5ag2fedfcjwx86hv75sa====.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://www.tvrplus.ro/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.tvrplus.ro"
+    "headers": "Referer: https://sweet.tv/en/free_tv/1494-tvr-cultural-hd\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://sweet.tv"
   },
   {
     "id": 18,
