@@ -124,11 +124,11 @@
     "id": 12,
     "title": "TVR International",
     "description": "TVR-INTER Live Stream",
-    "videoUrl": "https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8",
+    "videoUrl": "https://thor1.syndula1.cfd/teverei/usergenx6vkj8aqrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://www.tvrplus.ro/live/tvr-international\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://www.tvrplus.ro"
+    "headers": Referer: https://cool-tv.net/ch/tvr-inter-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
     "id": 13,
