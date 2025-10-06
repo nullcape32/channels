@@ -244,7 +244,7 @@
     "id": 23,
     "title": "AMC ",
     "description": "AMC  Live Stream",
-    "videoUrl": "https://iron1.jarvisx.cfd/amece/usergenrx3oq1kr.m3u8",
+    "videoUrl": "https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
@@ -252,7 +252,7 @@
   },
   {
     "id": 24,
-    "title": "TV100",
+    "title": "ViasatKino",
     "description": "TV100 Live Stream",
     "videoUrl": "https://flash1.bogulus.cfd/tivi10/usergenrxs4f7zc.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
@@ -262,9 +262,9 @@
   },
   {
     "id": 25,
-    "title": "MOVIE ",
+    "title": "FilmNow",
     "description": "MOVIE  Live Stream",
-    "videoUrl": "https://ultra2.falconx.cfd/muk/usergendx0nht6241s0krdnyd.m3u8",
+    "videoUrl": "https://ultra2.falconx1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Movies",
     "duration": 0,
@@ -284,11 +284,11 @@
     "id": 27,
     "title": "ZU-TV",
     "description": "ZU-TV Live Stream",
-    "videoUrl": "https://iron1.jarvisx.cfd/zzz/usergenrx8c0k3lkr.m3u8",
+    "videoUrl": "https://iron1.jarvisx1.cfd/zzz/usergenrx8c0k3lkr.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": "Referer: https://canale-tv.com/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://canale-tv.com"
+    "headers": "Referer: https://www.cool-etv.net/ch/zu.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 28,
