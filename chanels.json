@@ -128,7 +128,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": Referer: https://cool-tv.net/ch/tvr-inter-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
+    "headers": "Referer: https://cool-tv.net/ch/tvr-inter-s1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
     "id": 13,
@@ -703,6 +703,7 @@
     "headers": "Referer: https://www.tvrplus.ro/live/tvr-sport\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.tvrplus.ro"
 }
 ]
+
 
 
 
