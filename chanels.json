@@ -314,11 +314,11 @@
     "id": 30,
     "title": "TVR Folclor",
     "description": "UNKNOWN Live Stream",
-    "videoUrl": "https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Ftvrfolclor%2Fvideo.m3u8",
+    "videoUrl": "https://hls6eu.sweet.tv/stream/dj383qwtvnz66a9g7ks9jq4r6b78mvua9pcrqe8thkgqmdpykwhbu78h5g85mibswqh5v3je8egwv7f7uuu2bhuxmgivmwudd3x3mutc7tbtzprmvzpjzagcpqrfh4yi8rxb4kp9hi425h3qvn2bk5jfbi99pncx2ggt6zuht3tfx8637atzqjmf6fkicsmstexyb5abfijz9r753yds====.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Music",
     "duration": 0,
-    "headers": ""
+    "headers": "Referer: https://sweet.tv/en/free_tv/1803-tvr-folclor-hd\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 M"
   },
   {
     "id": 80,
