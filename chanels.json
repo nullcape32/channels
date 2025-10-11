@@ -30,6 +30,26 @@
     "headers": "Referer: https://www.cool-etv.net/ch/b1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
+    "id": 7,
+    "title": "PROTV",
+    "description": "PROTV Live Stream",
+    "videoUrl": "https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": "Referer: https://cool-tv.net/ch/protv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin:https://cool-tv.net"
+  },
+  {
+    "id": 8,
+    "title": "ANTENA1",
+    "description": "AN1 Live Stream",
+    "videoUrl": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": "Referer: https://cool-tv.net/ch/an1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
+  },
+  {
     "id": 4,
     "title": "TVR1",
     "description": "TVR1 Live Stream",
@@ -48,28 +68,7 @@
     "category": "Generale",
     "duration": 0,
     "headers": "Referer: https://cool-tv.net/ch/tvr2.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
-  },
-  {
-    "id": 7,
-    "title": "PROTV",
-    "description": "PROTV Live Stream",
-    "videoUrl": "https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Generale",
-    "duration": 0,
-    "headers": "Referer: https://cool-tv.net/ch/protv.htm/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin:https://cool-tv.net"
-
-  },
-  {
-    "id": 8,
-    "title": "ANTENA1",
-    "description": "AN1 Live Stream",
-    "videoUrl": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Generale",
-    "duration": 0,
-    "headers": "Referer: https://cool-tv.net/ch/an1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
-  },
+  },
   {
     "id": 9,
     "title": "Kanal D",
