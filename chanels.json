@@ -48,17 +48,7 @@
     "category": "Generale",
     "duration": 0,
     "headers": "Referer: https://cool-tv.net/ch/tvr2.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\nOrigin: https://cool-tv.net"
-  },
-  {
-    "id": 6,
-    "title": "TVR2 HD",
-    "description": "Google DASH Test Stream",
-    "videoUrl": "https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Generale",
-    "duration": 0,
-    "headers": ""
-  },
+  },
   {
     "id": 7,
     "title": "PROTV",
@@ -78,17 +68,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://cool-tv.net/ch/an1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
-  },
-  {
-    "id": 59,
-    "title": "TVR1HD",
-    "description": "AN1 Live Stream",
-    "videoUrl": "https://tvr-tvr1.cdn.zitec.com/live/tvr1/main.m3u8",
-    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
-    "category": "Generale",
-    "duration": 0,
-    "headers": ""
+    "headers": "Referer: https://cool-tv.net/ch/an1.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://cool-tv.net"
   },
   {
     "id": 9,
