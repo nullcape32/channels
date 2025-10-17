@@ -17,7 +17,7 @@
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": "Referer: https://hdro.tvron.cc/tvlive/a3?player=true\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://hdro.tvron.cc"
+    "headers": ""
   },
   {
     "id": 3,
