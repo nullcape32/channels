@@ -13,11 +13,11 @@
     "id": 2,
     "title": "ANTENA3",
     "description": "AN3 Live Stream",
-    "videoUrl": "https://top2new.newkso.ru/top2/antena3/mono.m3u8",
+    "videoUrl": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
     "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
     "category": "Generale",
     "duration": 0,
-    "headers": ""
+    "headers": "Referer: https://www.cool-etv.net/ch/an3.htm\nUser-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36\nOrigin: https://www.cool-etv.net"
   },
   {
     "id": 3,
